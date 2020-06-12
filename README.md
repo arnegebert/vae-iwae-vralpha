@@ -15,5 +15,6 @@ It was developed in conjunction with Evan Neill.
 
 The complete replication of the paper was a group effort by four people. 
 We have summarized our experiments and results in this poster:
- ![Renyi Poster](https://github.com/arnegebert/vae_iwae_vralpha/blob/master/iwae/poster.pdf)
+ ![Renyi Poster](https://github.com/arnegebert/vae-iwae-vralpha/blob/master/poster.pdf)
+ 
 
