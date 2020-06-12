@@ -11,7 +11,7 @@ It was then extended to also support the IWAE and the VR-alpha and the VR-max al
 This implementation was developed for the replication challenge of the 
 [Advanced Machine Learning course HT2020](https://www.cs.ox.ac.uk/teaching/internal/courses/2019-2020/advml/material.html).
 The code made available here allows rerunning the VAE experiments on the MNIST and FashionMNIST dataset.
-It was developed in conjunction with Evan Neill. 
+It was developed in conjunction with [Evan Neill](https://github.com/evaneill). 
 
 The complete replication of the paper was a group effort by four people. 
 We have summarized our experiments and results in this poster:
